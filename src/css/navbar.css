@@ -1,0 +1,27 @@
+.nabar_options_button{
+    padding: 5px 90px;
+    cursor: pointer;
+}
+.nabar_options_button:hover{
+    border-radius: 20px;
+    background-color: #dddd;
+}
+.nabar_options_button svg{
+    color: gray;
+}
+.nabar_options_button--active{
+    position: relative;
+}
+.nabar_options_button--active svg{
+    color: #2381fa;
+}
+.nabar_options_button--active:after{
+    content: "";
+    position: absolute;
+    width: 50%;
+    height: 3px;
+    left: 55px;
+    right: 0;
+    bottom: -5px;
+    background-color: #2381fa;
+}

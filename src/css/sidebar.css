@@ -1,0 +1,8 @@
+.sidebar{
+    margin-top: 20px;
+    padding-top: 10px;
+    flex: 0.40;
+    position: sticky ;
+    top:0;
+    border: 1px solid red;
+}

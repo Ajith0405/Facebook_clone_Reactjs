@@ -1,0 +1,46 @@
+.widget_bodyOptions:hover{
+    background-color: #dddd;
+}
+
+/* .widget{
+    margin-top: 30px;
+    margin-right: 10px;
+    height: 100vh;
+    flex: 0.40;
+    position:sticky;
+    top: 0;
+    
+}
+.widget_header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.widget_bodyOptions{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.widget_bodyOptions h4{
+    margin-left: 10px;
+}
+
+.ml10{
+    margin-left: 10px;
+
+}
+
+.ml10 p{
+    font-size: 14px;
+    color: gray;
+    
+}
+.ml10 svg{
+    font-size: 16px;
+    color: gray;
+    margin-right: 10px; 
+    
+} */

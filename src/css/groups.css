@@ -1,0 +1,50 @@
+.button_icon:hover{
+    background-color:#D0D4CA;
+}
+.button_icon{
+    background-color: #dddd;
+}
+.button_icon_options_icon svg{
+    color: black;
+}
+.button_icon_options svg{
+    color:white;
+}
+.button_icon_options{
+    background-color: #3085C3;
+}
+.option_buttons:hover{
+    background-color: #dddd;
+}
+
+/* Curosal */
+@media screen and (min-width:576px) {
+    .carousel-inner{
+        display: flex;
+    }
+    .carousel-item{
+        display: block;
+        margin-right: 0;
+        flex: 0 0 calc(100%/3);
+    }
+    .img-wrapper{
+        
+    }
+}
+.carousel-inner{
+    padding: 16px;
+}
+.card_group{
+    margin: 0.5em;
+    min-height: 400px;
+}
+.img-wrapper{
+    
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+img{
+    max-width: 100%;
+    max-height: 100%;
+}

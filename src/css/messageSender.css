@@ -1,0 +1,14 @@
+
+.messangerOption:hover{
+    background-color: #DDDDDD;
+}
+
+
+/* Model */
+.modalHeading .MuiIconButton-root{
+   cursor: pointer;
+   background-color: #dddddd;
+}
+.modalHeading .MuiIconButton-root:hover{
+    background-color: darkgrey;
+ }
